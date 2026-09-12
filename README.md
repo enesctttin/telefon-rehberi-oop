@@ -20,8 +20,6 @@ ve sınıf hiyerarşisi basitleştirildi.
 
 | | v1 — OOP temelli | v2 — Özellik genişletilmiş |
 |---|---|---|
-| Tarih | 20 Şubat 2026 | 23 Şubat 2026 |
-| Satır | 335 | 306 |
 | Veri yapısı | Sıfırdan yazılmış dinamik dizi | `ArrayList` |
 | Sınıf yapısı | `Person` (abstract) → `Contact`, `PhoneBookManager` | `telephone`, `Program` |
 | Kişi ekleme | ✓ | ✓ |
