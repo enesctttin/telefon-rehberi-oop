@@ -68,17 +68,3 @@ iç içe.
 
 - Veriler bellekte tutuluyor, uygulama kapanınca kayboluyor
 - Bir kişiye yalnızca tek numara eklenebiliyor
-
-## Çalıştırma
-
-```bash
-git clone https://github.com/enesctttin/telefon-rehberi-oop.git
-
-# v1
-cd telefon-rehberi-oop/v1-oop-temelli
-dotnet run --project TelefonRehberi
-
-# v2
-cd ../v2-ozellik-genisletilmis
-dotnet run --project TelefonRehberi2
-```
